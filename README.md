@@ -11,3 +11,10 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # taskApp
+1. Form to create a Task with tags and status of the task
+2. Draggable taskcards
+3. Use of localStorage for data memory
+4. Deleteable taskcards
+
+# New Plans to work on
+1. Customizable tags(limited to 10 to avoid unneccesary complexity) and status (limited to 5 to avoid unneccesary complexity)
