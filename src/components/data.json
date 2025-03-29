@@ -1,0 +1,14 @@
+[
+  { "task": "This is task to do", "status": "todo", "tags": ["HTML", "CSS"] },
+  {
+    "task": "This is task to do 2",
+    "status": "todo",
+    "tags": ["Javascript", "React"]
+  },
+  {
+    "task": "Task Drag and Drop",
+    "status": "doing",
+    "tags": ["HTML", "React"]
+  },
+  { "task": "Draggable Task", "status": "done", "tags": ["React"] }
+]
